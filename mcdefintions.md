@@ -38,3 +38,12 @@ name=Steve
 ## Entity names blacklisted
 name=!steve
 ```
+
+## Properties
+
+| name      | description |
+| --------- | ----------- |
+| tag       |             |
+| objective |             |
+| name      |             |
+| family    |             |
