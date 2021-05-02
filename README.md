@@ -1,7 +1,7 @@
 # Minecraft Bedrock Project Standard
 
 The goal of this standard is to unify multiple program, analyzers, generators or intellisense for example. This is accomplished through a universal
-data caching format and universal project attribute
+data caching format and universal project attribute. A secondary goal is also to provided sample files for unit testing
 
 **Content**
 

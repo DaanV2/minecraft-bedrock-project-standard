@@ -9,12 +9,20 @@
     {
       "identifier": "animation.sheep.dance",
       "location": { "uri": "./world/behavior_packs/BP/functions/example.mcfunction", "offset": 255 },
-      "animations_used": ["dance"],
-      "events_used": ["minecraft:set_dance"],
+      "animations": {
+        "used": ["dance"]
+      },
+      "events": {
+        "used": ["minecraft:set_dance"]
+      },
       "molang": {
-        "variables_used": ["is_attacking"],
-        "variables_defined": ["is_dancing"],
-        "queries_used": ["modified_speed"]
+        "variables": {
+          "used": ["is_attacking"],
+          "defined": ["is_dancing"]
+        },
+        "queries": {
+          "used": ["modified_speed"]
+        }
       }
     }
   ]

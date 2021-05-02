@@ -12,7 +12,6 @@
       "animations_used": ["dance"],
       "molang": {
         "variables_used": ["is_attacking"],
-        "variables_defined": ["is_dancing"],
         "queries_used": ["modified_speed"]
       }
     }

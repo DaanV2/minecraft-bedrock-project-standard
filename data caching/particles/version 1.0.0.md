@@ -10,9 +10,13 @@
       "identifier": "minecraft:diamond_pickaxe",
       "location": "./world/behavior_packs/BP/functions/example.mcfunction",
       "molang": {
-        "variables_used": ["is_attacking"],
-        "variables_defined": ["is_dancing"],
-        "queries_used": ["modified_speed"]
+        "variables": {
+          "used": ["is_attacking"],
+          "defined": ["is_dancing"]
+        },
+        "queries": {
+          "used": ["modified_speed"]
+        }
       }
     }
   ]

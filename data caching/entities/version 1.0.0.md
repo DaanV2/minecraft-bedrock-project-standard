@@ -12,10 +12,17 @@
       "behavior": {
         "location": { "offset": 255, "uri": "./world/behavior_pack/bp/entities/sheep.entity.json" },
         "events": ["minecraft:spawned"],
-        "animations": ["animation.sheep.dance", "controller.sheep.dance"],
+        "animations": {
+          "used": ["animation.sheep.dance", "controller.sheep.dance"],
+          "defined": ["animation.dance", "controller.dance"]
+        },
         "molang": {
-          "variables_used": ["is_attacking"],
-          "queries_used": ["modified_speed"]
+          "variables": {
+            "used": ["is_attacking"]
+          },
+          "queries":  {
+            "used": ["modified_speed"]
+          }
         }
       },
       "resource": {
@@ -25,9 +32,13 @@
         "textures": ["texture/entities/sheep"],
         "render_controllers": ["controller.sheep.example"],
         "molang": {
-          "variables_used": ["is_attacking"],
-          "variables_defined": ["is_dancing"],
-          "queries_used": ["modified_speed"]
+          "variables": {
+            "used": ["is_attacking"],
+            "defined": ["is_dancing"]
+          },
+          "queries": {
+            "used": ["modified_speed"]
+          }
         }
       }
     }

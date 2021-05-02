@@ -5,7 +5,7 @@
 ```json
 {
   "format_version": "1.0.0",
-  "blocks": [
+  "items": [
     { "identifier": "minecraft:diamond_pickaxe", "location": { "offset": 255, "uri": "./world/behavior_packs/BP/items/diamond.pickaxe.item.json" } }
   ]
 }

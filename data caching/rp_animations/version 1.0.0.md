@@ -9,8 +9,12 @@
     {
       "identifier": "animation.sheep.dance",
       "location": { "uri": "./world/behavior_packs/BP/functions/example.mcfunction", "offset": 255 },
-      "particles_used": ["rave"],
-      "sounds_used": ["rave"]
+      "particles": {
+        "used": ["rave"]
+      },
+      "sounds": {
+        "used": ["rave"]
+      }
     }
   ]
 }
