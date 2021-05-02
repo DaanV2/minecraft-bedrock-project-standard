@@ -1,0 +1,6 @@
+diagnose=true
+diagnose.objectives=true
+diagnose.tags=true
+diagnose.mcfunctions=true
+
+world.area_used=0 0 0 1000 256 1000

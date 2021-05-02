@@ -1,0 +1,31 @@
+## I am a comment
+
+## Tags used in the map
+tag=initialized
+tag=calculating
+tag=enemy
+tag=monster
+
+## Tags to be black listed
+tag=!Monster
+
+## Objectives used in the map
+objective=var
+objective=coin
+objective=foo
+
+## Objectives blacklisted
+objective=!Var
+objective=!Coin
+
+## Families
+family=npc
+
+## Families Blacklisted
+family=!Npc
+
+## Entity names
+name=Steve
+
+## Entity names blacklisted
+name=!steve
