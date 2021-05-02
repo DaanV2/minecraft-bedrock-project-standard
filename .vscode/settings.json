@@ -2,6 +2,8 @@
   "editor.formatOnSave": true,
   "editor.tabSize": 2,
 
+  "prettier.printWidth": 80,
+
   "files.associations": {
     ".mcattributes": "ini",
     ".mcdefinitions": "ini",

@@ -5,7 +5,15 @@
 ```json
 {
   "format_version": "1.0.0",
-  "tags": [{ "identifier": "monster", "location": { "offset": 255, "uri": "./world/behavior_packs/BP/functions/example.mcfunction" } }]
+  "tags": [
+    {
+      "identifier": "monster",
+      "location": {
+        "offset": 255,
+        "uri": "./world/behavior_packs/BP/functions/example.mcfunction"
+      }
+    }
+  ]
 }
 ```
 

@@ -8,7 +8,10 @@
   "controllers": [
     {
       "identifier": "render_controller.sheep.dance",
-      "location": { "offset": 255, "uri": "./world/resource_pack/RP/render_controllers/controller.sheep.json" },
+      "location": {
+        "offset": 255,
+        "uri": "./world/resource_pack/RP/render_controllers/controller.sheep.json"
+      },
       "geometries": {
         "used": ["default"]
       },

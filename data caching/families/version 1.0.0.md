@@ -5,7 +5,15 @@
 ```json
 {
   "format_version": "1.0.0",
-  "families": [{ "identifier": "npc", "location": { "offset": 255, "uri": "./world/behavior_packs/BP/entities/villager.entity.json" } }]
+  "families": [
+    {
+      "identifier": "npc",
+      "location": {
+        "offset": 255,
+        "uri": "./world/behavior_packs/BP/entities/villager.entity.json"
+      }
+    }
+  ]
 }
 ```
 

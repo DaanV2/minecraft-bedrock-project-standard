@@ -5,7 +5,13 @@
 ```json
 {
   "format_version": "1.0.0",
-  "objectives": [{ "identifier": "coins", "type": "dummy", "location": "./world/behavior_packs/BP/functions/example.mcfunction" }]
+  "objectives": [
+    {
+      "identifier": "coins",
+      "type": "dummy",
+      "location": "./world/behavior_packs/BP/functions/example.mcfunction"
+    }
+  ]
 }
 ```
 

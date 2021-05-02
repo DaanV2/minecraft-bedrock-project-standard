@@ -10,7 +10,10 @@
       "identifier": "minecraft:sheep",
       "families": ["animal", "mob"],
       "behavior": {
-        "location": { "offset": 255, "uri": "./world/behavior_pack/bp/entities/sheep.entity.json" },
+        "location": {
+          "offset": 255,
+          "uri": "./world/behavior_pack/bp/entities/sheep.entity.json"
+        },
         "events": ["minecraft:spawned"],
         "animations": {
           "used": ["animation.sheep.dance", "controller.sheep.dance"],
@@ -26,7 +29,10 @@
         }
       },
       "resource": {
-        "location": { "offset": 255, "./world/resource_pack/rp/entities/sheep.entity.json" },
+        "location": {
+          "offset": 255,
+          "./world/resource_pack/rp/entities/sheep.entity.json"
+        },
         "animations": ["animation.sheep.dance", "controller.sheep.dance"],
         "geometries": ["sheep"],
         "textures": ["texture/entities/sheep"],

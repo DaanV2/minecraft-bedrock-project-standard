@@ -8,7 +8,10 @@
   "controllers": [
     {
       "identifier": "animation.sheep.dance",
-      "location": { "uri": "./world/behavior_packs/BP/functions/example.mcfunction", "offset": 255 },
+      "location": {
+        "uri": "./world/behavior_packs/BP/functions/example.mcfunction",
+        "offset": 255
+      },
       "animations": {
         "used": ["dance"]
       },
