@@ -20,7 +20,7 @@ project for minecraft bedrock.
 The file can be found in the root of the project. The following files will be
 added:
 
-- [`.mcattribtues`](#mcattributes)
+- [`.mcattributes`](#mcattributes)
 - [`.mcdefinitions`](#mcdefinitions)
 - [`.mcignore`](#mcignore)
 
