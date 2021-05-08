@@ -1,8 +1,10 @@
 # Mcattributes
 
-This file stores any of the settings or attribtues related to the project. Which uses universal determined keys along each project. Each tool/program
-may also introduce each own set of keys, aslong as they are unique to the tool/program. Other programs/tools simply ignore these keys. But when
-overwriting the file, must keep the old keys from other tools or programs.
+This file stores any of the settings or attribtues related to the project. Which
+uses universal determined keys along each project. Each tool/program may also
+introduce each own set of keys, aslong as they are unique to the tool/program.
+Other programs/tools simply ignore these keys. But when overwriting the file,
+must keep the old keys from other tools or programs.
 
 **Example**
 

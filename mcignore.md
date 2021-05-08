@@ -1,6 +1,7 @@
 # McIgnore
 
-Based upon `.gitignore`. This file specifies through glob-patterns what files, folder to included/excluded from the project
+Based upon `.gitignore`. This file specifies through glob-patterns what files,
+folder to included/excluded from the project
 
 **Example**
 
