@@ -20,9 +20,11 @@ project for minecraft bedrock.
 The file can be found in the root of the project. The following files will be
 added:
 
-- [`.mcattributes`](#mcattributes)
-- [`.mcdefinitions`](#mcdefinitions)
-- [`.mcignore`](#mcignore)
+- [Minecraft Bedrock Project Standard](#minecraft-bedrock-project-standard)
+  - [Project Attribute](#project-attribute)
+    - [McAttributes](#mcattributes)
+    - [McDefinitions](#mcdefinitions)
+    - [McIgnore](#mcignore)
 
 ### McAttributes
 
